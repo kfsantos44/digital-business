@@ -13,8 +13,8 @@ export default function Info() {
             <h3 className="info-site">KennethSantos.website</h3>
 
             <div className="info-buttons">
-                <button className="button-email"><FontAwesomeIcon icon={faEnvelope} />Email</button>
-                <button className="button-linkedin"><FontAwesomeIcon icon={faLinkedin} />LinkedIn</button>
+                <button className="button-email"><FontAwesomeIcon icon={faEnvelope} /> Email</button>
+                <button className="button-linkedin"><FontAwesomeIcon icon={faLinkedin} /> LinkedIn</button>
             </div>
         </header>
     )

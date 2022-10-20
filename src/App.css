@@ -81,6 +81,11 @@
     margin: 8% 10% 0 10%;
 }
 
+.info-title{
+    color: #F3BF99;
+    font-weight: normal;
+}
+
 .interest-title, .interest-content {
 
 }
@@ -107,5 +112,17 @@ footer {
     justify-content: space-around;
 }
 
+.button-email, .button-linkedin {
+    border: 0;
+    margin: 0 5%;
+    border-radius: 10%;
+    width: 35%;
+    padding: 2%;
+}
+
+.button-linkedin {
+    background-color: #5093E2;
+    color: white;
+}
 
 
